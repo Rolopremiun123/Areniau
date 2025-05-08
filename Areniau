@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Arena Biodegradable para Gatos - EcoCat</title>
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 20px 0;
+            text-align: center;
+        }
+        section {
+            padding: 20px;
+        }
+        .product-image {
+            width: 100%;
+            max-width: 600px;
+            display: block;
+            margin: 0 auto;
+        }
+        .btn {
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 5px;
+            display: inline-block;
+            margin-top: 10px;
+        }
+        .product-description {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 20px;
+        }
+        .product-description div {
+            width: 45%;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Arena Biodegradable para Gatos EcoCat</h1>
+        <p>La opción ecológica para el bienestar de tu gato y el planeta</p>
+    </header>
+
+    <section>
+        <img src="https://via.placeholder.com/600x400" alt="Arena para Gatos EcoCat" class="product-image">
+        
+        <div class="product-description">
+            <div>
+                <h2>Descripción del Producto</h2>
+                <p>EcoCat es una arena para gatos biodegradable, hecha a base de materiales naturales y 100% ecológicos. Su capacidad de absorción es superior a las arenas tradicionales, manteniendo el ambiente limpio y fresco por más tiempo. Además, es completamente biodegradable, lo que la convierte en una opción amigable con el medio ambiente.</p>
+                <a href="#compra" class="btn">Comprar Ahora</a>
+            </div>
+            <div>
+                <h2>Beneficios</h2>
+                <ul>
+                    <li>100% biodegradable y compostable</li>
+                    <li>Alta capacidad de absorción</li>
+                    <li>Control natural de olores</li>
+                    <li>Libre de químicos y toxinas</li>
+                    <li>Adecuada para gatos con piel sensible</li>
+                </ul>
+            </div>
+        </div>
+        
+    </section>
+
+    <footer>
+        <p>&copy; 2025 EcoCat - Todos los derechos reservados</p>
+    </footer>
+
+</body>
+</html>
